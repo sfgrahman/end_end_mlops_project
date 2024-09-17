@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sfg/Desktop/ML_OPS/end_end_mlops_project/mlruns/0/10d02a8241f948d6a977dcbe9e44b634/artifacts
+end_time: 1726547318819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10d02a8241f948d6a977dcbe9e44b634
+run_name: polite-perch-912
+run_uuid: 10d02a8241f948d6a977dcbe9e44b634
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726547300097
+status: 3
+tags: []
+user_id: sfg
